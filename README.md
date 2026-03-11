@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?logo=gmail"/>
 </a>
 
-<a href="https://your-portfolio-link.vercel.app">
+<a href="saviyogeorge.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel"/>
 </a>
 
