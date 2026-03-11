@@ -106,6 +106,4 @@ Personal developer portfolio showcasing projects and skills.
 ---
 
 
-# ⚡ Fun Fact
 
-I love building full stack applications and exploring new technologies 🚀
