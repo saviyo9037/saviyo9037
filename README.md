@@ -101,6 +101,3 @@ Application for managing patients, doctors and appointments.
 
 ### 🌐 Portfolio Website
 Personal developer portfolio showcasing projects and skills.
-
-### 🗂 PHP Event Management System
-Event management application built with **PHP, MySQL, and XAMPP** with admin panel and event booking.
