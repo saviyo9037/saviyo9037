@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack & PHP Full Stack Developer from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;PHP+Full+Stack+Developer;React+Node+MongoDB+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;PHP+Full+Stack+Developer;React+Node+MongoDB+Developer;TypeScript+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
@@ -11,6 +11,7 @@
 
 💻 MERN Stack Developer  
 💻 PHP Full Stack Developer  
+⚡ Real-time App Developer (Socket.io)  
 🌱 Currently learning advanced Full Stack Development  
 🚀 Passionate about building scalable web applications  
 
@@ -42,6 +43,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![Redux](https://img.shields.io/badge/Redux-purple?logo=redux)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
@@ -50,6 +52,7 @@
 ### Backend
 ![Node](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
 
 ### Database
